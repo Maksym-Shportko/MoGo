@@ -28,3 +28,12 @@ window.onclick = function(event) {
     }
   }
 }
+
+// function bigImg(){
+//   let img = document.querySelector('#test').style.visibility = "visible";
+//   // document.querySelector('#test').style.background = "#f38181"
+
+// }
+// function normalImg(){
+//   let img = document.querySelector('#test').style.visibility = "hidden"
+// }
