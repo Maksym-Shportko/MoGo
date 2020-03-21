@@ -6,12 +6,25 @@
 // }
 function myFunction() {
     document.getElementById("myDropdown").classList.toggle("show");
+    
+var elt = document.querySelector('#toggle')
+
+elt.style.transform = elt.style.transform == "rotate(180deg)"?"rotate(0deg)":"rotate(180deg)";
+
 }
 function myFunction2() {
     document.getElementById("myDropdown2").classList.toggle("show");
+    var elt = document.querySelector('#toggle2')
+
+elt.style.transform = elt.style.transform == "rotate(180deg)"?"rotate(0deg)":"rotate(180deg)";
+
 }
 function myFunction3() {
     document.getElementById("myDropdown3").classList.toggle("show");
+    var elt = document.querySelector('#toggle3')
+
+elt.style.transform = elt.style.transform == "rotate(180deg)"?"rotate(0deg)":"rotate(180deg)";
+
 }
 
 // Close the dropdown if the user clicks outside of it
@@ -28,12 +41,3 @@ window.onclick = function(event) {
     }
   }
 }
-
-// function bigImg(){
-//   let img = document.querySelector('#test').style.visibility = "visible";
-//   // document.querySelector('#test').style.background = "#f38181"
-
-// }
-// function normalImg(){
-//   let img = document.querySelector('#test').style.visibility = "hidden"
-// }
