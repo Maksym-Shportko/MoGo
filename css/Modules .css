@@ -29,19 +29,19 @@
     font-size: 30px;
   }
   .main-block1__image1 {
-    background: url(/img/Layer\ 39.png);
+    background: url(../img/Layer\ 39.png);
     height: 250px;
   }
   .main-block1__image2 {
-    background: url(/img/Layer\ 39.png);
+    background: url(../img/Layer\ 39.png);
     height: 250px;
   }
   .main-block1__image3 {
-    background: url(/img/Layer\ 39.png);
+    background: url(../img/Layer\ 39.png);
     height: 250px;
   }
   .main-block1__image1:hover {
-    background: url(/img/Layer\ 44.png);
+    background: url(../img/Layer\ 44.png);
     transform: translate(-10px, -10px);
     box-shadow: 12px 12px 2px 1px #95e1d3;
     transition: 1s;
@@ -59,13 +59,13 @@
     transition: 1s;
   }
   .main-block1__image2:hover {
-    background: url(/img/Layer\ 44.png);
+    background: url(../img/Layer\ 44.png);
     transform: translate(-10px, -10px);
     box-shadow: 12px 12px 2px 1px #95e1d3;
     transition: 1s;
   }
   .main-block1__image3:hover {
-    background: url(/img/Layer\ 44.png);
+    background: url(../img/Layer\ 44.png);
     transform: translate(-10px, -10px);
     box-shadow: 12px 12px 2px 1px #95e1d3;
     transition: 1s;
@@ -96,7 +96,7 @@
     line-height: 90px;
   }
   .main-content__adaptive {
-    background: url(/img/Layer\ 45.png);
+    background: url(../img/Layer\ 45.png);
   }
   .phone {
     position: absolute;
@@ -114,24 +114,24 @@
   }
 
   .photo-gallery__first {
-    background-image: url(/img/Layer\ 18.png);
+    background-image: url(../img/Layer\ 18.png);
     background-size: cover;
     height: 460px;
   }
   .photo-gallery__second {
-    background-image: url(/img/Layer\ 19.png);
+    background-image: url(../img/Layer\ 19.png);
     background-size: cover;
     height: 460px;
   }
   .photo-gallery__third {
-    background: url(/img/Layer\ 18.png);
+    background: url(../img/Layer\ 18.png);
     background-size: cover;
     height: 460px;
     z-index: 10;
   }
   .photo-gallery__first:hover {
     transform: translate(-10px, -10px);
-    background: url(/img/Layer\ 16.png);
+    background: url(../img/Layer\ 16.png);
     box-shadow: 12px 12px 2px 1px #95e1d3;
     transition: 0.7s;
   }
@@ -139,11 +139,11 @@
     transform: translate(-10px, -10px);
     box-shadow: 12px 12px 2px 1px #95e1d3;
     transition: 0.7s;
-    background: url(/img/Layer\ 16.png);
+    background: url(../img/Layer\ 16.png);
   }
   .photo-gallery__third:hover {
     transform: translate(-10px, -10px);
-    background: url(/img/Layer\ 16.png);
+    background: url(../img/Layer\ 16.png);
     background-repeat: no-repeat;
     box-shadow: 12px 12px 2px 1px #95e1d3;
     transition: 0.7s;
@@ -250,7 +250,7 @@
     background: #f38181;
   }
   .team {
-    background-image: url(/img/Layer\ 53.png);
+    background-image: url(../img/Layer\ 53.png);
     height: 830px;
   }
   .team-photo {
@@ -261,7 +261,7 @@
     align-items: center;
   }
   .map {
-    background-image: url(/img/Layer\ 59.png);
+    background-image: url(../img/Layer\ 59.png);
     height: 200px;
     align-items: center;
     color: #f38181;
@@ -307,7 +307,7 @@
     display: block;
   }
   .story_1 {
-    background: url(/img/Layer\ 26.png);
+    background: url(../img/Layer\ 26.png);
     height: 390px;
     background-position: center;
   }
@@ -329,7 +329,7 @@
   .story_5:hover,
   .story_6:hover,
   .story_7:hover {
-    background: url(/img/Layer\ 29.png);
+    background: url(../img/Layer\ 29.png);
   }
   .story_1:hover .story-hover,
   .story_2:hover .story-hover2,
@@ -356,32 +356,32 @@
   }
   .story_2,
   .story_3 {
-    background: url(/img/Layer\ 35.png);
+    background: url(../img/Layer\ 35.png);
     height: 390px;
     background-position: center;
   }
   .story_3 {
-    background: url(/img/Layer\ 33.png);
+    background: url(../img/Layer\ 33.png);
     height: 390px;
     background-position: center;
   }
   .story_4 {
-    background: url(/img/Layer\ 26.png);
+    background: url(../img/Layer\ 26.png);
     height: 390px;
     background-position: center;
   }
   .story_5 {
-    background: url(/img/Layer\ 34.png);
+    background: url(../img/Layer\ 34.png);
     height: 780px;
     background-position: center;
   }
   .story_6 {
-    background: url(/img/Layer\ 32.png);
+    background: url(../img/Layer\ 32.png);
     height: 390px;
     background-position: center;
   }
   .story_7 {
-    background: url(/img/Layer\ 31.png);
+    background: url(../img/Layer\ 31.png);
     height: 390px;
     background-position: center;
   }

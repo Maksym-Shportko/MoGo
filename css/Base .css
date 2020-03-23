@@ -21,7 +21,7 @@ a:hover {
     color: white;
   }
   header {
-    background: url(/img/Layer\ 15.png);
+    background: url(../img/Layer\ 15.png);
     background-position: center;
     background-size: cover;
   }

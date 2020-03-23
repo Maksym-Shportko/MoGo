@@ -1,6 +1,6 @@
-@import "/css/Base\ .css";
-@import "/css/Layout\ .css";
-@import "/css/Modules\ .css";
+@import "../css/Modules\ .css";
+@import "../css/Layout\ .css";
+@import '../css/Base\ .css';
 
 /* SCROLL */
 
