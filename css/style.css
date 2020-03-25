@@ -1,6 +1,9 @@
 @import "../css/Modules\ .css";
 @import "../css/Layout\ .css";
-@import '../css/Base\ .css';
+@import "../css/Base\ .css";
+@import "../css/LoyautMedia.css";
+@import "../css/modulesMedia.css";
+@import "../css/BaseMedia.css";
 
 /* SCROLL */
 
@@ -36,4 +39,3 @@
   width: 4px;
   height: 10px;
 }
-

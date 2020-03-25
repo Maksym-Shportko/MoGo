@@ -1,0 +1,93 @@
+@media (max-width:500px) {
+    .main-block1__image1 {
+        height: 200px;
+    }
+    .main-block1__image2 {
+        height: 200px;
+    }
+    .main-block1__image3 {
+        height: 200px;
+    }
+    .isActive {
+        display: none;
+    }
+    .users {
+        padding: 0px;
+        padding-top: 50px;
+    }
+    .div {
+        max-width: 100%;
+        height: 160px;
+    }
+    .m-adaptive {
+        font-size: 12px;
+        text-align: center;
+        display: flex;
+        justify-content: flex-start;
+    }
+    .adaptive-img {
+        width: 300px;
+    }
+    .phone {
+        width: 150px;
+        top: 60%;
+        right: 7%;
+    }
+    .list-item {
+        padding-top: 5px;
+        padding-bottom: 5px;
+        font-size: 10px;
+    }
+    .list-item img {
+        width: 40px;
+    }
+    .subscribe {
+        height: 100%;
+    }
+    .dropdown-content {
+        font-size: 10px;
+        height: 70px;
+    }
+    .carousel {
+        padding: 0;
+    }
+    .speech {
+        padding: 7px !important;
+        height: 50px;
+        width: 50px;
+        margin-top: 38px;
+    }
+    .citate {
+        font-size: 10px;
+    }
+    .carousel-item {}
+    .slider {
+        height: 180px;
+        display: flex;
+        align-items: center;
+    }
+    .carousel-innet__item,
+    .slider-control {
+        padding-top: 0px;
+    }
+    .photo-gallery__first {
+        height: 250px;
+    }
+    .photo-gallery__second {
+        height: 250px;
+    }
+    .photo-gallery__third {
+        height: 250px;
+    }
+    .investors {
+        width: 400px;
+    }
+    .autor-phooto {
+        width: 100px;
+        margin-left: 28px;
+    }
+    .team-photo {
+        padding-left: 0 !important;
+        font-size: 10px;
+    }
+}
